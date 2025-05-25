@@ -34,8 +34,6 @@ Contributions are welcome! If you have ideas for new tools or improvements, feel
 ## Author
 **Bhavan Arimaan**
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Acknowledgments
 - Inspired by the ethical hacking community.
